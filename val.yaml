@@ -1,0 +1,6 @@
+# custom.yaml
+train: '../data/Obstacle Dataset/img-train'
+val: '../data/Obstacle Dataset/img-val'
+
+nc: 7
+names: ['stop_sign', 'person', 'bus', 'truck', 'car', 'motorbike', 'dog']
